@@ -1,8 +1,5 @@
 package rs.aleph.android.example21.db;
 
-/**
- * Created by KaraklicDM on 22.11.2017.
- */
 
 
 import android.content.Context;
